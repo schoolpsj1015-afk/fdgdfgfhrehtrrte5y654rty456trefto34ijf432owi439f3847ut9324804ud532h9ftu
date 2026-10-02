@@ -1,0 +1,6 @@
+{
+  "name": "대진전자통신고 시간표 & 학습 플래너",
+  "description": "대진전자통신고등학교 맞춤형 시간표 조회, 캘린더 연동, 숙제 기록 및 방과후 활동 관리 스마트 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
